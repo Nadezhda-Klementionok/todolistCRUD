@@ -1,4 +1,6 @@
 import requests
+
+
 import json
 
 key_names = ['id', 'task', 'priority', 'time_to_spend']
@@ -196,7 +198,7 @@ def main():
 
 if __name__ == "__main__":
     print('Main.py запущена самостоятельно!')
-    
+
     main()
 else:
     print('Main.py импортирована.')
