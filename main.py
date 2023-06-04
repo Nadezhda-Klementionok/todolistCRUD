@@ -195,7 +195,7 @@ def main():
 
 
 if __name__ == "__main__":
-    print('Main.py запущена самостоятельно.')
+    print('Main.py запущена самостоятельно!')
     main()
 else:
     print('Main.py импортирована.')
